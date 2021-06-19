@@ -74,5 +74,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("repo de clases con clases")
 }
 main();
